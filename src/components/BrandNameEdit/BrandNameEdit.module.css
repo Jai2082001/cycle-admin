@@ -1,0 +1,17 @@
+.deletableP {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.deletableP:hover {
+    background-color: #ccc;
+}
+
+.checkBoxer {
+    height: 50px;
+}
+
+.displayFlex {
+    display: flex;
+    align-items: center;
+}

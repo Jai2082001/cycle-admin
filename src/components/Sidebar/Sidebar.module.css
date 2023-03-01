@@ -1,0 +1,23 @@
+.sidebarDiv {
+    background-color: rgb(43, 43, 43);
+    /* min-height: 100vh; */
+    /* background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: rgb(0 0 0 / 20%) 0px 0px 3px 0px;
+} */
+    min-height: 100vh;
+    height: 100%;
+}
+
+.sideBtn {
+    width: 100%;
+    background-color: rgb(43, 43, 43);
+    outline: none;
+    border: none;
+}
+
+.sideBtn:focus,
+.sideBtn:active,
+.sideBtn:hover {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+    box-shadow: rgb(0 0 0 / 20%) 0px 0px 3px 0px;
+}

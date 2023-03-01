@@ -1,0 +1,11 @@
+.divBtn{
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 10px;
+    background: #0d6efd !important;
+}
+.tableDiv{
+    margin-top: 40px;
+    overflow: auto;
+}

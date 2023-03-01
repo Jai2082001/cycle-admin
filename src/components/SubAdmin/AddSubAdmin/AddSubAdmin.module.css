@@ -1,0 +1,9 @@
+.checkboxContainer div {
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.checkboxContainer div span {
+    margin-left: 10px;
+}

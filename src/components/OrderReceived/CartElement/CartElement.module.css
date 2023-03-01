@@ -1,0 +1,12 @@
+.imgContainer {
+    max-width: 150px;
+}
+
+.imgClass {
+    width: 100%;
+}
+
+.imgDiv {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,19 @@
+.packDiv tr{
+    border: none;
+}
+.packDiv td{
+    border: none;
+}
+.packDiv{
+    border-bottom: 1px solid grey;
+}
+.parentDiv{
+    border-bottom: 1px solid lightgray;
+}
+
+.infoDiv tr{
+    border: none;
+}
+.infoDiv td{
+    border: none;
+}

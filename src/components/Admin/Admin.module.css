@@ -1,0 +1,23 @@
+.logoutSpan {
+    cursor: pointer;
+}
+
+.navBarDiv {
+    background-color: rgb(57, 73, 171);
+}
+
+.textColor a {
+    color: white !important;
+}
+
+.textColor span {
+    color: white !important;
+}
+
+.sidebar {
+    background-color: rgb(43, 43, 43);
+}
+
+.adminDiv {
+    background-color: #f7f7f7;
+}

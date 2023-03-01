@@ -1,0 +1,21 @@
+.formInputContainer{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.imgContainer img{
+    max-width: 200px;
+}
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.imgChild{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: 1px solid black;
+}
